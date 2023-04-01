@@ -339,6 +339,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 335d4dcb3fcb0224e97e87ac88759733, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &445381550 stripped
@@ -414,6 +419,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bcf5e2418500974ea0df4a6bad801e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!1001 &654135748
@@ -483,6 +493,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bcf5e2418500974ea0df4a6bad801e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &654135749 stripped
@@ -558,6 +573,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 335d4dcb3fcb0224e97e87ac88759733, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &759780588 stripped
@@ -633,6 +653,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bcf5e2418500974ea0df4a6bad801e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &790279165 stripped
@@ -708,6 +733,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 335d4dcb3fcb0224e97e87ac88759733, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &892286101 stripped
@@ -783,6 +813,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 335d4dcb3fcb0224e97e87ac88759733, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &1015282329 stripped
@@ -942,6 +977,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 335d4dcb3fcb0224e97e87ac88759733, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &1362914754 stripped
@@ -1017,6 +1057,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bcf5e2418500974ea0df4a6bad801e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &1434748895 stripped
@@ -1092,6 +1137,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bcf5e2418500974ea0df4a6bad801e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &1543675116 stripped
@@ -1374,6 +1424,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 335d4dcb3fcb0224e97e87ac88759733, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &1798809613 stripped
@@ -1449,6 +1504,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bcf5e2418500974ea0df4a6bad801e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &2031104133 stripped
@@ -1524,6 +1584,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 335d4dcb3fcb0224e97e87ac88759733, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &2070471747 stripped
@@ -1599,6 +1664,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeamTest (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1170970068873931921, guid: 10429e19e602bf74d9885bab50dd59ec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bcf5e2418500974ea0df4a6bad801e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10429e19e602bf74d9885bab50dd59ec, type: 3}
 --- !u!4 &2097285660 stripped
