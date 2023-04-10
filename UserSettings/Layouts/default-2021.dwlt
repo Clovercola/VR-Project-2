@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 118
+  controlID: 20
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 402.66663
     height: 926
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 119
+  controlID: 21
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 120
+  controlID: 22
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,22 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/Assets/Materials
+    - Assets/Samples/XR Interaction Toolkit/2.2.0/Starter Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Resources/Assets/Materials
+  - Assets/Samples/XR Interaction Toolkit/2.2.0/Starter Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\seeke\OneDrive\Documents\GitHub\VR-Project-2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 62bd0000
-    m_LastClickedID: 48482
-    m_ExpandedIDs: 0000000060620000626200007662000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 2a710000
+    m_LastClickedID: 28970
+    m_ExpandedIDs: 00000000da650000dc6500008467000086670000287100002e71000040710000d872000016730000187300001a73000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006062000062620000
+    m_ExpandedIDs: 00000000da650000dc650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -491,9 +491,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 086a0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 8af6ffffaef7ffff14fbffffca5f000020600000
+      m_ExpandedIDs: 48f0ffff4ef0ffff14fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -776,9 +776,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 98.87618, y: 137.49861, z: -101.14451}
+    m_Target: {x: 97.88897, y: 141.81999, z: 19.959972}
     speed: 2
-    m_Value: {x: 98.87618, y: 137.49861, z: -101.14451}
+    m_Value: {x: 97.88897, y: 141.81999, z: 19.959972}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -825,13 +825,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.4202636, y: -0.5432973, z: 0.3626264, w: -0.6302113}
+    m_Target: {x: -0.05921067, y: -0.86662054, z: 0.10614103, w: -0.48441267}
     speed: 2
-    m_Value: {x: -0.42179465, y: -0.54033226, z: 0.36064905, w: -0.632505}
+    m_Value: {x: -0.059197098, y: -0.86642194, z: 0.106116705, w: -0.48430166}
   m_Size:
-    m_Target: 10.966593
+    m_Target: 9.3435
     speed: 2
-    m_Value: 10.494348
+    m_Value: 8.941149
   m_Ortho:
     m_Target: 0
     speed: 2
