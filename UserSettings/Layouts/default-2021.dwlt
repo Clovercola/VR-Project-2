@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 20
+  controlID: 72
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 402.66663
     height: 926
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 21
+  controlID: 73
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 22
+  controlID: 74
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,22 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Samples/XR Interaction Toolkit/2.2.0/Starter Assets
+    - Assets/Resources/Assets/Models/Player
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Samples/XR Interaction Toolkit/2.2.0/Starter Assets
+  - Assets/Resources/Assets/Models/Player
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\seeke\OneDrive\Documents\GitHub\VR-Project-2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 2a710000
-    m_LastClickedID: 28970
-    m_ExpandedIDs: 00000000da650000dc6500008467000086670000287100002e71000040710000d872000016730000187300001a73000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 42680000
+    m_LastClickedID: 26690
+    m_ExpandedIDs: 00000000486600004a6600004c660000626600003c68000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000da650000dc650000
+    m_ExpandedIDs: 00000000486600004a6600004c660000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,10 +490,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 086a0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 48f0ffff4ef0ffff14fbffff
+      scrollPos: {x: 0, y: 122}
+      m_SelectedIDs: 8afaffff
+      m_LastClickedID: -1398
+      m_ExpandedIDs: e4f8ffff14fbffff066300000e640000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -595,7 +595,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 24.666666}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-transform-toolbar
@@ -825,13 +825,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.05921067, y: -0.86662054, z: 0.10614103, w: -0.48441267}
+    m_Target: {x: 0.0843751, y: -0.9119084, z: 0.23501721, w: 0.3264252}
     speed: 2
-    m_Value: {x: -0.059197098, y: -0.86642194, z: 0.106116705, w: -0.48430166}
+    m_Value: {x: 0.08435474, y: -0.9116884, z: 0.23496053, w: 0.32634646}
   m_Size:
-    m_Target: 9.3435
+    m_Target: 4.250452
     speed: 2
-    m_Value: 8.941149
+    m_Value: 4.250452
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -918,7 +918,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -929,7 +929,7 @@ MonoBehaviour:
       y: 21
       width: 1079.3334
       height: 598
-    m_Scale: {x: 1, y: 1}
+    m_Scale: {x: 1.1255087, y: 1.1255087}
     m_Translation: {x: 539.6667, y: 299}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -937,10 +937,10 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -539.6667
-      y: -299
-      width: 1079.3334
-      height: 598
+      x: -479.4869
+      y: -265.65765
+      width: 958.9738
+      height: 531.3153
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1619, y: 928.5}

@@ -842,13 +842,13 @@
       <Project>{DED8EA4A-087F-C93F-CCBB-19063A1F8744}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.Management.Samples.csproj">
-      <Project>{BAF78417-4557-EE91-92CB-6A779F0A2A0C}</Project>
-      <Name>Unity.XR.Management.Samples</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.XR.Management.Samples.Editor.csproj">
       <Project>{71EFE89A-1D72-C114-72CD-E5419F203DFA}</Project>
       <Name>Unity.XR.Management.Samples.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Management.Samples.csproj">
+      <Project>{BAF78417-4557-EE91-92CB-6A779F0A2A0C}</Project>
+      <Name>Unity.XR.Management.Samples</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
